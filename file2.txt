@@ -2,3 +2,5 @@ Sample1
 Sample2
 Change1
 Change2
+Laptop1
+Laptop2
